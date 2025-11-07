@@ -113,7 +113,7 @@ contact = "lpoujol on #debian-reproducible oftc irc"
 name = "github.com/cen1"
 url = "https://rebuilderd.xpam.pl:2096/"
 distributions = ["archlinux", "debian"]
-country = "" # TODO
+country = "SVN"
 contact = "cen on #debian-reproducible oftc irc"
 
 [[rebuilder]]
