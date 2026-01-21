@@ -117,6 +117,12 @@ country = "SVN"
 contact = "cen on #debian-reproducible oftc irc"
 
 [[rebuilder]]
+name = "reproduce.1312.run"
+url = "https://reproduce.1312.run/"
+distributions = ["archlinux", "debian"]
+country = "DEU"
+
+[[rebuilder]]
 name = "Trustworthy Software Ecosystems Lab (Purdue ECE)"
 url = "https://reproducible.seal.purdue.wtf/"
 distributions = ["debian"]
