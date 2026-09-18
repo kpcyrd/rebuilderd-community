@@ -135,4 +135,18 @@ url = "https://fedora-reproducible.ovh/"
 distributions = ["fedora"]
 country = "FIN"
 contact = "jelle in #reproducible-builds oftc irc"
+
+[[rebuilder]]
+name = "Trust harness bogo instance (always reports GOOD unconditionally)"
+url = "https://rebuilderd-blissfully-good.exe.xyz/"
+distributions = ["archlinux", "debian"]
+country = "DEU"
+contact = "kpcyrd in #reproducible-builds oftc irc"
+
+[[rebuilder]]
+name = "Trust harness bogo instance (always reports BAD unconditionally)"
+url = "https://rebuilderd-blissfully-bad.exe.xyz/"
+distributions = ["archlinux", "debian"]
+country = "DEU"
+contact = "kpcyrd in #reproducible-builds oftc irc"
 ```
